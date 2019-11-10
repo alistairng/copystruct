@@ -1,2 +1,2 @@
 # copystruct
-Copy struct using reflect
+Copy go struct using reflect 
